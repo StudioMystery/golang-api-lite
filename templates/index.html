@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://unpkg.com/htmx.org@latest"></script>
+</head>
+<body>
+    <p>hello world</p>
+
+    <button hx-get="http://localhost:8090/component"
+    hx-swap="beforeend"
+    hx-target="#comp">
+        CLICK ME!
+    </button>
+
+    <div id="comp">
+    </div>
+</body>

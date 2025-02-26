@@ -1,0 +1,6 @@
+{   
+    "env": "test",
+    "connection": "/connection-string",
+    "foobar-frontend-hostname": "www.foobar.com",
+    "foobar-backend-hostname": "api.foobar.com"
+}
