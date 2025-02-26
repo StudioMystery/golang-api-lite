@@ -39,8 +39,8 @@ The template follows my personal preferences when it comes to swagger generation
 
 ## Credits:
 
-[Jsend by Clever Go](https://github.com/clevergo/jsend)
-[Sqlite for Prod](https://www.youtube.com/watch?v=XcAYkriuQ1o)
-[HTMX + Golang](https://www.youtube.com/watch?v=r-GSGH2RxJs)
-[Swagger Editor](https://editor.swagger.io/)
-[Postman to Swagger](https://metamug.com/util/postman-to-swagger/)
+- [Jsend by Clever Go](https://github.com/clevergo/jsend)
+- [Sqlite for Prod](https://www.youtube.com/watch?v=XcAYkriuQ1o)
+- [HTMX + Golang](https://www.youtube.com/watch?v=r-GSGH2RxJs)
+- [Swagger Editor](https://editor.swagger.io/)
+- [Postman to Swagger](https://metamug.com/util/postman-to-swagger/)
